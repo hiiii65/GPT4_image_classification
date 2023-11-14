@@ -3,7 +3,8 @@ import shutil
 import requests
 import base64
 
-# 
+# Created: 11/14/2023
+
 def encode_image(image_path):
     """
     将图像编码为base64字符串。
