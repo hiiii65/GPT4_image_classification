@@ -87,7 +87,7 @@ def classify_images_in_folder(folder_path, feature, api_key):
                 print(f"Classification failed: {file_name}")
 
 def main():
-    api_key = "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"  # Replace this with your OpenAI API key
+    api_key = "Replace this with your OpenAI API key"  # Replace this with your OpenAI API key
     folder_path = get_folder_path()
     feature = get_classification_feature()
     classify_images_in_folder(folder_path, feature, api_key)
