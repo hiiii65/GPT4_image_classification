@@ -87,7 +87,7 @@ def classify_images_in_folder(folder_path, feature, api_key):
                 print(f"分类失败: {file_name}")
 
 def main():
-    api_key = "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"  # 将此替换为你的OpenAI API密钥
+    api_key = "将此替换为你的OpenAI API密钥"  # 将此替换为你的OpenAI API密钥
     folder_path = get_folder_path()
     feature = get_classification_feature(),'Please simplify your classification into one word.'
     classify_images_in_folder(folder_path, feature, api_key)
