@@ -5,4 +5,5 @@ Running the script will automatically classify the images in the specified folde
 
 ![f9c3bfdcea3875a7bef888ae080f9e68](https://github.com/hiiii65/GPT4_image_classification/assets/76000500/c6766ae9-1119-4705-80e3-9ba5efd6ec58)
 
-![552b9073cca300d972ce1526e56829a0](https://github.com/hiiii65/GPT4_image_classification/assets/76000500/0b73bb2b-61e6-4228-be16-93f118438f2d)
+![image](https://github.com/hiiii65/GPT4_image_classification/assets/76000500/696ca637-4581-4b3c-8df7-eb400248c3f6)
+
