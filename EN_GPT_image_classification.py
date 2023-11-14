@@ -3,6 +3,8 @@ import shutil
 import requests
 import base64
 
+# Created: 11/14/2023
+
 def encode_image(image_path):
     """
     Encode the image as a base64 string.
